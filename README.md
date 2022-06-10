@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Web Development, C++, Data Analysis
 - 🌱 I’m currently learning Web Development & Data Analysis (Numpy, Pandas)
 - 💞️ I’m looking to collaborate on python & webd projects
-- 📫 Reach out to me : https://linktr.ee/abanand132
+- 📫 Reach out to me : abhi6174@protonmail.com
 
 <!---
 abanand132/abanand132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
