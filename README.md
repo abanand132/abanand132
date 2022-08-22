@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Anand
-- 👀 I’m interested in Python, Web Development, C++, Data Analysis
+- 👀 I’m interested in Problem Solving, Web Development, & Data Analysis
 - 🌱 I’m currently learning Web Development & Data Analysis (Numpy, Pandas)
 - 💞️ I’m looking to collaborate on python & webd projects
 - 📫 Reach out to me : abanand132@gmail.com
