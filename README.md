@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on python & webd projects
 - 📫 Reach out to me : abanand132@gmail.com
 ## Social Accounts : 
-<a href="https://www.instagram.com/abanand132/"><img src="images/instagram.png"  alt = "instagram logo" width=35px></a>
+<a href="https://www.instagram.com/abanand132/"> <img src="images/instagram.png"  alt = "instagram logo" width=35px> </a>
+<a href="https://www.twitter.com/abanand132/"> <img src="images/twitter.png"  alt = "twitter logo" width=35px> </a>
+<a href="https://www.linkedin.com/in/abanand132/"> <img src="images/linkedin.png"  alt = "linkedin logo" width=35px> </a>
 <!---
 abanand132/abanand132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
