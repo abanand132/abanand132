@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://theabhishek.me/](https://theabhishek.me/)
+- 👨‍💻 All of my projects are available at [https://theabhishek.tech/](https://theabhishek.tech/)
 
 - 💬 Ask me about **Python, C++**
 
